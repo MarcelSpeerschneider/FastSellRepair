@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: FastSellRepair
+## Notes: Automatisch Junk verkaufen und Ausrüstung reparieren beim Händler.
+## Author: Marcel
+## Version: 1.0.0
+## SavedVariables: FastSellRepairDB
+
+FastSellRepair.lua
